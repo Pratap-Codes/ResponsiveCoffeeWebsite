@@ -404,6 +404,9 @@ header {
   transform: translateY(-40px);
 }
 
+
+
+
 /* ------Responsive-------- */
 @media (max-width: 480px) {
   header {
